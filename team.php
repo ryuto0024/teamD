@@ -11,7 +11,7 @@
 
 <body>
 
-    <h2>安否情報</h2>
+    <h2>安否情報aaaa</h2>
     <h3>所属部署</h3>
     <div class="tab">
         <table>
